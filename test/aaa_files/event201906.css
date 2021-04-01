@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+
+.page-id-219812 #container img {
+	margin: 0;
+}
+
+
+.page-id-219812 #container .entry-content img {
+    margin: 0;
+}
+
+@media only screen and (min-width: 768px) {
+
+.page-id-219812 #container .entry-content img {
+	margin: 0;
+}
+}
+
+@media only screen and (max-width: 767px) {
+
+.page-id-219812 #header_block_767 , .page-id-219812 .entry-title {
+	display: none;
+}
+
+.page-id-219812 #content #main {
+	padding: 1em 0;
+}
+
+}
